@@ -1,0 +1,51 @@
+.outer-wrapper {
+  height: 100vh;
+  background-color: #cae9e2;
+  overflow-y: scroll;
+  font-family: monospace;
+}
+
+#content-wrapper {
+  margin: 50px auto;
+}
+
+#my_name {
+  font-size: 3vw;
+  font-weight: 700;
+}
+
+#designation {
+  font-size: 1.5vw;
+  font-weight: 600;
+}
+
+.works {
+  font-size: 1vw;
+  font-weight: 600;
+}
+
+.duration {
+  margin-top: -10px;
+  font-size: 1vw;
+  font-weight: 400;
+}
+
+ul {
+  margin-left: -1vw;
+}
+
+.section-text{
+    font-size: 1.5vw;
+    font-weight: 600;
+}
+
+.headings{
+    font-size: 1.25vw;
+}
+
+.project_showcasing{
+    font-size: 1vw;
+    font-weight: 600;
+    text-decoration: none;
+    color: #232396;
+}
